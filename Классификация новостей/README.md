@@ -1,4 +1,5 @@
 # Классификация новостного потока
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanTau/Tests/blob/main/Классификация%20новостей/Классификация%20новостей.ipynb)
 ## Задача:
 
 Предлагается построить модель для выявления в новости события, соответствующего задержке ввода некоторого объекта в эксплуатацию.
